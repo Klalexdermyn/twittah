@@ -2,6 +2,8 @@
 
 Attempt at replicating twitter layout and part of it functionality using Next.js, TailwindCSS and Supabase.
 
+![layoutscr](https://github.com/Klalexdermyn/twittah/assets/49567522/cc1c21c8-bab5-485b-b44b-d0c1d24c5f5c)
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
