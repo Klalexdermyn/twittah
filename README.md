@@ -1,8 +1,8 @@
-## Xitter
+# Xitter
 
 Attempt at replicating twitter layout and part of it functionality using Next.js, TailwindCSS and Supabase.
 
-# Getting Started
+## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
